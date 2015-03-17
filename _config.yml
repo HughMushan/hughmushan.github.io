@@ -9,7 +9,7 @@ name: Hugh
 description: Hugh's blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://a.hiphotos.baidu.com/image/pic/item/359b033b5bb5c9ea75eec2e5d639b6003af3b393.jpg
+avatar: images/jekyll-logo.png
 
 #
 # Flags below are optional
