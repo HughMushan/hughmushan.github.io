@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Deep Learning 学习笔记（1）——Introduction
-
-
+title: Deep Learning
 ---
 
 # Deep Learning 学习笔记（1）——Introduction
