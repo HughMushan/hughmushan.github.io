@@ -21,8 +21,42 @@ categories: DeepLearning
 (7) 2013：ImageNet classification challenge Top20全用的是Deep Learning技术。在ImageNet object detection challenge上NYU使用Deep Learning技术取得Rank3成绩。此外Google和百度先后使用Deep Learning技术，并在上面做深入研究。<br />
 (8) 2014: ImageNet challenge基本上全用的是Deep Learning。Deep Learning被认为是计算机视觉方面效果最好的方法（State of art）。使用DeepLearning，在LFW数据集上的Face verification准确率可以达到99.47%。论文: Deep Learning Face Representation by joint identification-verification; Deeply learned face representation are spare, selective, and robust.<br />
 
-**图片**
+*Deep Learning最近的新闻*
+
+![news]({{ site.baseurl }}/images/post/Deep_Learning_news.png)
 
 ### 1.2 Deep Learning 基本原理
+
 机器学习在2006年出现新的浪潮。在2006年之前的称为是浅层学习(Shallow Learning)，Deep Learning是机器学习的第二次浪潮。之所以称06年之前的机器学习算法或Shallow Learning，是因为它们都可以近似的看作带有一层隐层节点的神经网络。Deep Learning与Shallow Learning的主要区别在于两个方面：(1) 特征选择方式；(2)结构方面。<br />
-在特征方面，Shallow Learning的效果很大程度上取决于特征提取的好与坏，而特征往往是人工设计，具有局限性。跟人在领域上的知识相关；特征的设定与训练相互独立；如果人工特征有多个参数，非常困难进行人工微调；特定应用对应特定特征，为一个新的应用找到新的有效特征非常缓慢。Deep Learning更加强调了特征的学习（Feature Learning），
+
+在特征方面，Shallow Learning的效果很大程度上取决于特征提取的好与坏，而特征往往是人工设计，具有局限性。跟人在领域上的知识相关；特征的设定与训练相互独立；如果人工特征有多个参数，非常困难进行人工微调；特定应用对应特定特征，为一个新的应用找到新的有效特征非常缓慢。Deep Learning更加强调了特征的学习（Feature Learning），通过对原始输入数据的变形，从中提取对分类或者识别有帮助的特征；更好的利用了大数据；能够更快地为新应用得到新的特征。Deep Learning本质上就是一种Feature Learning。<br />
+
+![feature extract]({{ site.baseurl }}/images/post/feature.png)
+
+在结构方面，Shallow Learning对应着Shallow Structures, Deep Learning对应着Deep Structures。对于Shallow Structures，可以用一个三层的神经网络近似模拟；Shallow Structures往往将特征空间划分为小的区域，再将它与模板进行匹配。Deep Learning具有更深的结构，往往有7、8层，甚至是10层。通过分层分级处理，能够是模型得到更充分的计算。
+
+对Deep Learning的一些认识： <br />
+(1) Feature Learning就是自动的从数据中学习层次化的特征表示，通过多层次的非线性映射解耦输入数据的隐藏因素<br />
+(2) 对于一些任务，随着他们结构层数的增加，深度模型的能力也指数级地增加<br />
+(3) Deep Learning将计算机视觉上经典的应用看成是高维数据的变形问题，从一个新的角度去解决他们 <br />
+
+### 1.3 Deep Learning 基本模型
+- **CNN(Convolutional Neural Networks)** <br />
+> Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner, “Gradient based Leaning Applied to Document Recognition” Proceedings of the IEEE Vol 86 pp 2278‐2324 1998 
+
+- **DBN(Deep Belief Nets)** <br />
+> G.E Hinton, S.Osindero, and Y.Teh, “A Fast Learning Algorithm for Deep Belief Nets.” Neural Computation, Vol.18, pp. 1527-1544, 2006.
+
+- **Auto-encoder**
+> G.E. Hinton and R.R.Salakhutdinov, “Reducing the Dimensionality of Data with Neural Networks,” Science, Vol.313, pp. 504-507, July 2006.
+
+先有个认识，以后再附上详细的学习笔记
+
+
+### 写在后面
+> 笔记准备的不充分、英文水平有限、时间仓促等等原因导致本次笔记质量不高，不过还是先记在这里，这一段时间会好好完善Deep Learning学习笔记系列的blog。希望自己可以坚持下来。多写写blog，让自己进行二次思考，更好的掌握这些知识。
+
+
+
+
+
