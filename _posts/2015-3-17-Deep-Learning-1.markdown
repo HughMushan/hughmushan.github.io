@@ -10,6 +10,7 @@ categories: DeepLearning
 
 
 ## **1. Deep Learning 概述**
+
 ### 1.1 Deep Learning 时间表
 (1) 1986：提出BP神经网络，模拟人脑神经系统，能够从大量训练样本中学习统计规律。但是存在问题：训练困难；不充分的计算；使用小的训练集；效果并不理想，收敛到局部最优值；从顶层往下，梯度越来越稀疏，误差校正信号越来越小（Gradient Diffusion）;只能用有标签的数据进行训练。<br />
 (2) 1986-2006：提出了许多机器学习的模型和算法，如SVM、Boosting、Decision Tree、KNN等。这些现在称为浅层结构；需要为特定任务构建特定的模型；使用的是人工提取的特征（GMM-HMM、SIFT、LBP、HOG）。<br />
