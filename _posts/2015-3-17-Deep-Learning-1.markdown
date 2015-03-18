@@ -5,7 +5,7 @@ description: 使用github pages和Octopress搭建静态博客，及相关的配�
 date: 2015-03-17 22:07:11 +0800
 comments: true
 tags: Octopress, github pages
-categories: 工具
+categories: DeepLearning
 ---
 
 
