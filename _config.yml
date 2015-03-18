@@ -13,13 +13,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : YouSharp
+title : Hugh
 tagline: Think, Share, Insist
 author :
-  name : Daniel
-  email : daniel5hbs@hotmail.com
-  github : nkcoder
-  twitter : nkcoder
+  name : Hugh
+  email : zhb.1015@foxmail.com
+  github : hughmushan
+  twitter : hughmushan
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -30,7 +30,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://nkcoder.github.io
+production_url : http://hughmushan.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
