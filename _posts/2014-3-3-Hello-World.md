@@ -2,7 +2,7 @@
 layout: post
 title: You're up and running!
 description：Deep Learning 学习笔记
-date：2015-3-17 
+date：2015-03-17 22:07:11 +0800
 comments: true
 tags：DeepLearning
 categories：DeepLearning
