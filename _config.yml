@@ -87,7 +87,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : hughmushan
+      short_name : Hugh
     livefyre :
       site_id : 123
     intensedebate :
