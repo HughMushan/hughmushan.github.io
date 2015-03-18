@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "使用github pages和Octopress搭建静态博客及配置"
-description: 使用github pages和Octopress搭建静态博客，及相关的配置
+title: Deep Learning 学习笔记（1）-Introduction
+description: Deep Learning 学习笔记
 date: 2015-03-17 22:07:11 +0800
 comments: true
-tags: Octopress, github pages
+tags: DeepLearning
 categories: DeepLearning
 ---
 
