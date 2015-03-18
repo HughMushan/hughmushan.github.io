@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+description: "about me"
 ---
+{% include JB/setup %}
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)

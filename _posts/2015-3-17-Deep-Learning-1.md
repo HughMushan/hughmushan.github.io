@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Deep Learning 学习笔记（1）——Introduction
+description：Deep Learning 学习笔记
+date：2015-3-17 
+comments: true
+tags：DeepLearning
+categories：DeepLearning学习笔记
 ---
 
 #{{page.title}}
