@@ -42,12 +42,15 @@ categories: DeepLearning
 
 ### 1.3 Deep Learning 基本模型
 - **CNN(Convolutional Neural Networks)** <br />
+
 > Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner, “Gradient based Leaning Applied to Document Recognition” Proceedings of the IEEE Vol 86 pp 2278‐2324 1998 
 
 - **DBN(Deep Belief Nets)** <br />
+
 > G.E Hinton, S.Osindero, and Y.Teh, “A Fast Learning Algorithm for Deep Belief Nets.” Neural Computation, Vol.18, pp. 1527-1544, 2006.
 
-- **Auto-encoder**
+- **Auto-encoder** <br />
+
 > G.E. Hinton and R.R.Salakhutdinov, “Reducing the Dimensionality of Data with Neural Networks,” Science, Vol.313, pp. 504-507, July 2006.
 
 先有个认识，以后再附上详细的学习笔记
