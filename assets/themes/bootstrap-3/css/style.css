@@ -17,8 +17,11 @@
 h1, h2, h3, h4 {
   color: #292c2e;
 }
+p {
+  font-size: 18px；
+ }
 #footer {
-  background-color: #fdcd60;
+  background-color: rgb(224, 243, 248);
 }
 
 
@@ -33,9 +36,6 @@ h1, h2, h3, h4 {
   right: 0;
   font-size: 1.2em; }
  
- .post > p {
-  font-size: 18px；
- }
 
 .post > .more {
   margin: 10px 0;
