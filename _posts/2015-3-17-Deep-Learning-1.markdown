@@ -1,14 +1,13 @@
-﻿---
+---
 layout: post
 title: Deep Learning 学习笔记（1）——Introduction
 description：Deep Learning 学习笔记
-date：2015-3-17 
+date：2015-3-17 22:07:11 +0800
 comments: true
 tags：DeepLearning
 categories：DeepLearning
 ---
 
-#{{page.title}}
 
 ## **1. Deep Learning 概述**
 ### 1.1 Deep Learning 时间表
