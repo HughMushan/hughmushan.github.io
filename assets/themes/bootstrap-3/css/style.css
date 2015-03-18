@@ -32,6 +32,10 @@ h1, h2, h3, h4 {
   position: absolute;
   right: 0;
   font-size: 1.2em; }
+ 
+ .post > body {
+  font-size: 18px；
+ }
 
 .post > .more {
   margin: 11px 0;
