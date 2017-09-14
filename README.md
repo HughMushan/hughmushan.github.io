@@ -1,1 +1,1 @@
-Hugh's blog
+http://jekyllthemes.org/themes/space-jekyll-template/
