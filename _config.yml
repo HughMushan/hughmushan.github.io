@@ -1,17 +1,15 @@
 # Site settings
 title: Zeng Haibin(Hugh)
 description: "A blog about Hugh..."
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+baseurl: ""
 url: "http://hughmushan.github.io/" 
 # User settings
 username: Hugh
 user_title: Hugh
 email: zhb.1015@foxmail.com
-twitter_username: Hugh
-github_username:  Hugh
-gplus_username:  Hugh
-disqus_username: Hugh
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+github_username: HughMushan
+gitbook_username: hughmushan
+profile_picture: /assets/img/hugh.jpg
 
 # Build settings
 highlighter: rouge
