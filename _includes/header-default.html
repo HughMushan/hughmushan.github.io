@@ -22,6 +22,17 @@
                 <svg class="icon icon-gitbook-alt"><use xlink:href="#icon-gitbook-alt"></use></svg>
             </a>
         </div>
+        
+        <ul class="recent">
+            <p>最近发布:</p>
+             {% for post in site.posts limit:3%}
+                <li>
+                    <a title="Will take a my recent post" href="{{ post.url | prepend: site.baseurl }}">
+                        <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
+                    </a>
+                </li>
+              {% endfor %}
+        </ul>
 
     </div>
     {% include menu-search.html %}
