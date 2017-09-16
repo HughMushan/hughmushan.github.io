@@ -2,7 +2,7 @@
 title: Zeng Haibin(Hugh)
 description: "A blog about Hugh..."
 baseurl: ""
-url: "http://hughmushan.github.io/" 
+url: "http://hughmushan.github.io" 
 # User settings
 username: Hugh
 user_title: Hugh
@@ -27,7 +27,7 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: my posts
+  - title: posts
     url: /posts
   - title: series
     url: /series
